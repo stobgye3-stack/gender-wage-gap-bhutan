@@ -200,3 +200,5 @@ For questions about the code, please contact:
 Dr Sonam Tobgye  
 School of Economics, Finance and Marketing  
 RMIT University
+
+sonam.tobgye2@rmil.edu.au
