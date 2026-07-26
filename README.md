@@ -191,7 +191,7 @@ If using this code, please cite the associated article:
 
 Tobgye, S., Feeny, S., & Srivastava, P. P. *Gender Wage Inequality in Bhutan: Regional and Distributional Decompositions*. Journal of Asian Economics, manuscript ASIECO-D-25-00658R1.
 
-A DOI for the replication code may be added after archiving the final repository through Zenodo.
+
 
 ## Contact
 
